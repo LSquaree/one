@@ -1,0 +1,33 @@
+
+#A{ 
+    margin: 32px 32px 16px;
+    border: 2px solid red;
+    background-color: green;
+    color:wheat;
+    
+}
+#B{
+    margin: 32px 32px 16px;
+    border: 2px solid red;
+    background-color: hotpink;
+}
+#C{ 
+    margin: 0 20%;
+    border: 2px solid green;
+    background-color: wheat;
+}
+em{
+    margin: 12px 32px;
+    color: black;
+}
+img{
+    margin:12px 32px;
+}
+#D{
+    margin-top: 32px;
+    margin-bottom: -32px;
+    background-color: brown;
+}
+#E{
+    background-color: coral;
+}

@@ -1,0 +1,21 @@
+h1 { 
+    font: italic 3em Georgia;
+    color: rgb(23, 109, 109); 
+    margin: 1em 0 1em;
+}
+h1 img{
+    margin:0 1em -.5em 1sssem;
+}
+p{
+    margin: 1em 10em 0 2em;
+}
+p img{
+    margin: 0 2em -.3em 0;
+}
+small{
+    color: #666666;
+}
+body{
+    width: 80%;
+    margin:1em auto;
+}
